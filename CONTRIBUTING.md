@@ -42,7 +42,12 @@
 ### 克隆仓库
 
 ```bash
+# GitHub
 git clone https://github.com/zylliondata/AMT2ABC.git
+
+# Gitee（国内访问更快）
+git clone https://gitee.com/zylliondata/AMT2ABC.git
+
 cd AMT2ABC
 ```
 
@@ -66,7 +71,8 @@ cd AMT2ABC
 
 ## 获取帮助
 
-- 在 [Discussions](https://github.com/zylliondata/AMT2ABC/discussions) 提问
+- 在 [GitHub Discussions](https://github.com/zylliondata/AMT2ABC/discussions) 提问
+- 在 [Gitee Issues](https://gitee.com/zylliondata/AMT2ABC/issues) 留言（中文用户）
 - 联系维护者邮箱：info@zylliondata.com
 
 再次感谢您的贡献！

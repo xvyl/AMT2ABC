@@ -7,6 +7,15 @@
 
 ---
 
+## 代码托管镜像
+
+| 平台 | 地址 | 说明 |
+|------|------|------|
+| GitHub | <https://github.com/zylliondata/AMT2ABC> | 国际同步 |
+| Gitee | <https://gitee.com/zylliondata/AMT2ABC> | 国内访问更快 |
+
+---
+
 **AMT2ABC** 是一个开源的工业软件能力编译生态。它将工业机理（Atomic Mechanism Triplet, AMT）自动编译为可复用的原子业务能力（Atomic Business Capability, ABC），为工业智能化提供从业务目标到可执行应用的自动化编译能力。
 
 > 工业软件缺的不是AI，而是Compiler。  
@@ -48,7 +57,12 @@ GS(目标) → AMT Cluster → ABC
 ### 安装 Compiler 原型（MVP）
 
 ```bash
+# 从 GitHub 克隆
 git clone https://github.com/zylliondata/AMT2ABC.git
+
+# 从 Gitee 克隆（国内访问更快）
+git clone https://gitee.com/zylliondata/AMT2ABC.git
+
 cd AMT2ABC
 # 具体安装步骤见 docs/installation.md（即将补充）
 ```
@@ -102,6 +116,6 @@ Compiler 输出推荐的 ABC 组合（JSON 格式示例）：
 
 ## 联系我们
 
-- 提交 Issue：<https://github.com/zylliondata/AMT2ABC/issues>
-- 社区讨论：<https://github.com/zylliondata/AMT2ABC/discussions>
+- 提交 Issue：[./issues](./issues)（GitHub 或 Gitee 均可）
+- GitHub Discussions：<https://github.com/zylliondata/AMT2ABC/discussions>（中文用户也可在 Gitee Issues 留言）
 - 邮箱：info@zylliondata.com

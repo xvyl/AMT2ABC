@@ -11,7 +11,7 @@ We currently support the latest stable release of the AMT2ABC Compiler with secu
 
 ## Reporting a Vulnerability
 
-We take security vulnerabilities seriously. Please **DO NOT** report security issues via public GitHub issues.
+We take security vulnerabilities seriously. Please **DO NOT** report security issues via public issues (GitHub or Gitee).
 
 Instead, please send an email to **info@zylliondata.com**. Alternatively, use the **Report a vulnerability** button in the Security tab of the GitHub repository.
 

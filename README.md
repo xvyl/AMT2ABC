@@ -7,6 +7,15 @@
 
 ---
 
+## Repository Mirrors
+
+| Platform | URL |
+|----------|-----|
+| GitHub | <https://github.com/zylliondata/AMT2ABC> |
+| Gitee (China mirror) | <https://gitee.com/zylliondata/AMT2ABC> |
+
+---
+
 **AMT2ABC** is an open-source ecosystem for compiling industrial software capabilities. It automatically compiles industrial mechanisms, expressed as Atomic Mechanism Triplets (**AMTs**), into reusable Atomic Business Capabilities (**ABCs**), enabling automated transformation from business goals to executable industrial applications.
 
 > What industrial software lacks is not AI, but a Compiler.
@@ -48,7 +57,12 @@ GS (Goal)  →  AMT Cluster  →  ABC
 ### Install the Compiler Prototype (MVP)
 
 ```bash
+# From GitHub
 git clone https://github.com/zylliondata/AMT2ABC.git
+
+# From Gitee (faster in mainland China)
+git clone https://gitee.com/zylliondata/AMT2ABC.git
+
 cd AMT2ABC
 # Detailed installation steps: docs/installation.md (coming soon)
 ```
@@ -102,6 +116,6 @@ To report a security vulnerability, please follow the process in [SECURITY.md](S
 
 ## Contact
 
-- Issues: <https://github.com/zylliondata/AMT2ABC/issues>
-- Discussions: <https://github.com/zylliondata/AMT2ABC/discussions>
+- Issues: [./issues](./issues)
+- GitHub Discussions: <https://github.com/zylliondata/AMT2ABC/discussions>
 - Email: info@zylliondata.com
