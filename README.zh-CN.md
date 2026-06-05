@@ -32,9 +32,9 @@
 ```
 Working Domain → Mechanism → AMT → AMT Graph
                                            ↓
-GS(目标) → AMT Cluster → ABC
-                           ↓
-              App/Agent → Scenario → OAO Loop
+                GS(目标) → AMT Cluster → ABC
+                                           ↓
+             App/Agent → Scenario → OAO Loop
 ```
 
 - **人定义的部分**：工作域、机理、AMT、AMT Graph

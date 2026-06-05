@@ -32,9 +32,9 @@ Traditional industrial software development has long been trapped in a "project-
 ```
 Working Domain → Mechanism → AMT → AMT Graph
                                            ↓
-GS (Goal)  →  AMT Cluster  →  ABC
-                                ↓
-                  App/Agent → Scenario → OAO Loop
+               GS (Goal) → AMT Cluster → ABC
+                                           ↓
+             App/Agent → Scenario → OAO Loop
 ```
 
 - **Human-defined parts**: Working Domain, Mechanism, AMT, AMT Graph
