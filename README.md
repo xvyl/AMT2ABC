@@ -2,17 +2,10 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/zylliondata/AMT2ABC)
+[![Gitee](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=white)](https://gitee.com/zylliondata/AMT2ABC)
 
 **English** | [简体中文](./README.zh-CN.md)
-
----
-
-## Repository Mirrors
-
-| Platform | URL |
-|----------|-----|
-| GitHub | <https://github.com/zylliondata/AMT2ABC> |
-| Gitee (China mirror) | <https://gitee.com/zylliondata/AMT2ABC> |
 
 ---
 

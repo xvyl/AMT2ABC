@@ -2,17 +2,10 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/zylliondata/AMT2ABC)
+[![Gitee](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=white)](https://gitee.com/zylliondata/AMT2ABC)
 
 [English](./README.md) | **简体中文**
-
----
-
-## 代码托管镜像
-
-| 平台 | 地址 | 说明 |
-|------|------|------|
-| GitHub | <https://github.com/zylliondata/AMT2ABC> | 国际同步 |
-| Gitee | <https://gitee.com/zylliondata/AMT2ABC> | 国内访问更快 |
 
 ---
 
