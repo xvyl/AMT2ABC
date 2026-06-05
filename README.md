@@ -116,6 +116,7 @@ To report a security vulnerability, please follow the process in [SECURITY.md](S
 
 ## Contact
 
-- Issues: [./issues](./issues)
-- GitHub Discussions: <https://github.com/zylliondata/AMT2ABC/discussions>
-- Email: info@zylliondata.com
+[![GitHub Issues](https://img.shields.io/badge/GitHub%20Issues-181717?logo=github&logoColor=white)](https://github.com/zylliondata/AMT2ABC/issues)
+[![Gitee Issues](https://img.shields.io/badge/Gitee%20Issues-C71D23?logo=gitee&logoColor=white)](https://gitee.com/zylliondata/AMT2ABC/issues)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub%20Discussions-181717?logo=github&logoColor=white)](https://github.com/zylliondata/AMT2ABC/discussions)
+[![Email](https://img.shields.io/badge/Email-info%40zylliondata.com-blue?logo=gmail&logoColor=white)](mailto:info@zylliondata.com)

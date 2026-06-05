@@ -116,6 +116,7 @@ Compiler 输出推荐的 ABC 组合（JSON 格式示例）：
 
 ## 联系我们
 
-- 提交 Issue：[./issues](./issues)（GitHub 或 Gitee 均可）
-- GitHub Discussions：<https://github.com/zylliondata/AMT2ABC/discussions>（中文用户也可在 Gitee Issues 留言）
-- 邮箱：info@zylliondata.com
+[![GitHub Issues](https://img.shields.io/badge/GitHub%20Issues-181717?logo=github&logoColor=white)](https://github.com/zylliondata/AMT2ABC/issues)
+[![Gitee Issues](https://img.shields.io/badge/Gitee%20Issues-C71D23?logo=gitee&logoColor=white)](https://gitee.com/zylliondata/AMT2ABC/issues)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub%20Discussions-181717?logo=github&logoColor=white)](https://github.com/zylliondata/AMT2ABC/discussions)
+[![邮箱](https://img.shields.io/badge/邮箱-info%40zylliondata.com-blue?logo=gmail&logoColor=white)](mailto:info@zylliondata.com)
