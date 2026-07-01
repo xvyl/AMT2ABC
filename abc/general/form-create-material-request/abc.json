@@ -540,14 +540,14 @@
       },
       {
         "defaultValue": "",
-        "name": "kanbanId",
+        "name": "kanban_id",
         "description": "",
         "type": "data",
         "testValue": ""
       },
       {
         "defaultValue": "",
-        "name": "tenantId",
+        "name": "tenant_id",
         "description": "",
         "type": "data",
         "testValue": ""
