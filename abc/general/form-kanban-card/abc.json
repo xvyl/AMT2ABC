@@ -1,6 +1,6 @@
 {
   "amt2abc":{
-	"id":"kanban-card",
+	"id":"form-kanban-card",
 	"name":"看板卡片列表",
 	"industry":"general",
 	"category":"form",
@@ -862,21 +862,21 @@
       },
       {
         "defaultValue": "",
-        "name": "tenantId",
+        "name": "tenant_id",
         "description": "",
         "type": "data",
         "testValue": ""
       },
       {
         "defaultValue": "",
-        "name": "resourceId",
+        "name": "resource_id",
         "description": "",
         "type": "data",
         "testValue": ""
       },
       {
         "defaultValue": "",
-        "name": "correlationId",
+        "name": "correlation_id",
         "description": "",
         "type": "data",
         "testValue": ""
@@ -994,7 +994,7 @@
             "key": "Content-Type"
           },
           {
-            "value": "{{tenantId.value}}",
+            "value": "{{tenant_id.value}}",
             "key": "Tenant-Id"
           },
           {
@@ -1020,7 +1020,7 @@
           "periodicTime": "",
           "timeout": ""
         },
-        "bodyParams": "{{\n  {\n    \"resourceId\": resourceId.value,\n    \"action\": \"ACTION_04\",\n    \"businessKey\": \"MATERIAL_REQUEST_APP_DOMAIN\",\n    \"correlationId\": correlationId.value,\n    \"parameters\": {\n      \"search_kanban_list.page_number\":table1.page,\n      \"search_kanban_list.page_size\":table1.pageSize,\n      \"oet_kanban_card_status_list\": transform_status_filter_value.data\n    }\n  }\n}}",
+        "bodyParams": "{{\n  {\n    \"resourceId\": resource_id.value,\n    \"action\": \"ACTION_04\",\n    \"businessKey\": \"MATERIAL_REQUEST_APP_DOMAIN\",\n    \"correlationId\": correlation_id.value,\n    \"parameters\": {\n      \"search_kanban_list.page_number\":table1.page,\n      \"search_kanban_list.page_size\":table1.pageSize,\n      \"oet_kanban_card_status_list\": transform_status_filter_value.data\n    }\n  }\n}}",
         "type": "restApi",
         "url": "{{currentConfig.GATEWAY_API_URL}}/api/fabric/secondaryDikube/transaction/templates/MATERIAL_REQUEST_APP/execute",
         "notification": {
@@ -1109,8 +1109,8 @@
   "applicationInfo": {
     "createBy": "",
     "favicon": "",
-    "name": "kanban_card",
-    "id": "000000000000000",
+    "name": "看板卡片列表",
+    "id": "000000000000000000000000",
     "type": "",
     "publicToAll": false,
     "createAt": 0,
